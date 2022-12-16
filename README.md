@@ -1,5 +1,5 @@
 # Vehicle routing problem (VRP): Clarke-Wright Savings Algorithm
- Clark-Wright savings algorithm for vehicle routing problem (VRP) with single depot and vehicle capacity constraints.
+ Clarke-Wright savings algorithm for vehicle routing problem (VRP) with single depot and vehicle capacity constraints.
  
  In one of my courses, we were asked to manually solve a vehicle routing problem (a kind of optimization problem) . It turns out I don't want to manually solve it, so I wrote this code. It has each step reported. Feel free to use it for your own purpose.
  
